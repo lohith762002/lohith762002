@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm lohith kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://gifs.alphacoders.com/gifs/view/220282)](https://makeagif.com/gif/one-piece-luffy-gear-5-iconic-laugh-HX3ATy)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=luffy%20gear%205%20transformation%20gif&imgurl=https%3A%2F%2Fgiffiles.alphacoders.com%2F220%2F220069.gif&imgrefurl=https%3A%2F%2Falphacoders.com%2Fgear-5-(one-piece)-gifs&docid=JIs0H4rV0z9IfM&tbnid=pzWjjBhq4DP94M&vet=12ahUKEwiPkuLewtmJAxWGoa8BHbB6GCMQM3oECB4QAA..i&w=540&h=304&hcb=2&ved=2ahUKEwiPkuLewtmJAxWGoa8BHbB6GCMQM3oECB4QAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohith762002&label=Profile%20views&color=0e75b6&style=flat" alt="lohith762002" /> </p>
 
